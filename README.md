@@ -2,7 +2,7 @@
 
 A short Android sample app using the [Open Weather Map API](http://openweathermap.org/forecast5), [RxJava](https://github.com/ReactiveX/RxJava), [Dagger 2](http://google.github.io/dagger/) and Card Views.
 
-![Weekly Weather](screenshot.png)
+<a href="screenshot.png"><img src="screenshot.png" alt="Weekly Weather" style="width: 200px;"/></a>
 
 ## Building
 
