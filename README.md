@@ -22,3 +22,7 @@ Test:
 
     ./gradlew test
 
+## Todo
+
+* Loading progress indicator
+* Error handling
