@@ -6,9 +6,9 @@ A short Android sample app using the [Open Weather Map API](http://openweatherma
 
 ## Building
 
-Edit your Global Gradle properties file `~/.gradle/gradle.properties` and add the variable `WeeklyWeatherApiKey` with your Open Weather Map API key, e.g.:
+Edit your Global Gradle properties file `~/.gradle/gradle.properties` and add the variable `uk.co.josephearl.android.weeklyweather.apikey` with your Open Weather Map API key, e.g.:
 
-    WeeklyWeatherApiKey="xxxxxxxxx"
+    uk.co.josephearl.android.weeklyweather.apikey="xxxxxxxxx"
 
 Build:
 
