@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="WeeklyWeatherTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DailyWeatherCardTitle" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:textColor">?android:attr/colorPrimary</item>
+    </style>
+
+    <style name="ThreeHourWeatherTitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textColor">?android:attr/colorAccent</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ThreeHourWeatherTemperature" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="ThreeHourWeatherDescription" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
